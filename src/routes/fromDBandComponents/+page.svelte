@@ -5,9 +5,9 @@
 	let clickedContainerNumber = 'none';
 
 	function containerClicked(container) {
-		console.log('Container clicked:', container.containernumber);
+		console.log('Container clicked:', container.containerNumber);
 		if (container) {
-			clickedContainerNumber = container.containernumber;
+			clickedContainerNumber = container.containerNumber;
 		}
 	}
 </script>
