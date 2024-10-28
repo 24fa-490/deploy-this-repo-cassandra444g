@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-<enter your URL here>
+(https://deploy-this-repo-cassandra444g-dx9os5vv8.vercel.app)
 
 
